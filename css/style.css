@@ -241,6 +241,9 @@ header .gnb>li> a:hover{
 }
 
 /*s01*/
+.main_wrap{
+    overflow: hidden;
+}
 .__main .s01 {
     /* margin: 0 auto; */
     height: 975px;
