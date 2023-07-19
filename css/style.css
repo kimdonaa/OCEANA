@@ -416,6 +416,16 @@ header .gnb>li> a:hover{
 
     }
 }
+    @media(max-width: 375px) {
+   .__main .s01 .firework .f_03 {
+    left: 46%;
+    right: 4%;
+    top: 29%;
+}     
+header .hamburger {
+    width: 9%;
+}
+}
 
 /*s02*/
 .__main .s02 {
