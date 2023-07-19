@@ -1349,6 +1349,11 @@ footer .c .rb .add span {
 footer .c .rb .co {
     margin-top: 15px;
 }
+@media (max-width: 1336px) {
+    footer .wrap {
+        width: 100%;
+    }
+}
 @media (max-width: 1320px) {
     footer {
     --wave: 11.4167vw;
