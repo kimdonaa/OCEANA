@@ -632,7 +632,7 @@ header .hamburger {
     .__main .s02 .b {
         position: absolute;
         left: 295px;
-        top: 170px;
+    	top: 20px;
         right: 0;
         bottom: 0;
         pointer-events: none;
