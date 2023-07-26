@@ -394,9 +394,9 @@ header .gnb>li> a:hover{
     }
 
     .__main .s01 .firework .f_03 {
-        left: 46%;
-        right: 4%;
-        top: 12%;
+    left: 59%;
+    right: 13%;
+    top: 11%;
     }
 
     .__main .s01 .firework .f_01 img {
@@ -548,6 +548,15 @@ header .hamburger {
 }
 
 @media (max-width: 1320px) {
+	.__main .s02 {
+    height: 590px;
+    --wave: 6.1979vw;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 150px;
+    position: relative;
+    z-index: 10;
+}
     .explanation {
         width: 100%;
         margin: 0 auto;
@@ -571,7 +580,7 @@ header .hamburger {
     .__main .s02 .b {
         position: absolute;
         left: 532px;
-        top: 130px;
+        top: -20px;
         right: 0;
         bottom: 0;
         pointer-events: none;
